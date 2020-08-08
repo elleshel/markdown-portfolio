@@ -1,12 +1,17 @@
-1. Developer 
+1. Developer
++ Nodejs
++ Python
 2. Blogger 
-3. Web Design 
-   1. Nodejs
-   2. Python
-   3. Instagram
-   4. Facebook
-   5. Graphic design
-   6. Prototype
+ + Insta
+ + Facebook
+3. Web-Design
+   + Graphic design
+   + UI
+   + Website building
+
+
+
+
 
 
 
